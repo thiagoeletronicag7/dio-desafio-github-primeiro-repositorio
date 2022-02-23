@@ -1,0 +1,5 @@
+Link para download do Git:
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+Aprendemos conceitos como o de Branchs, árvores, etc.
+Git serve para versionar arquivos, organizar, o GitHub é uma plataforma opensource, onde todos podem contribuir com o trabalho dos outros.
+Também foram ensinados comandos de terminal, como abrir pastas, criar arquivos, etc.
